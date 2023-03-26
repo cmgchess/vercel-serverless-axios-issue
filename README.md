@@ -1,5 +1,7 @@
 # Vercel Serverless Axios Issue
 
+[Vercel discussion](https://github.com/vercel/vercel/discussions/9637)
+
 | **Endpoint**                                                     | **Dev**     | **Deploy**  |
 |------------------------------------------------------------------|-------------|-------------|
 | https://vercel-serverless-axios-issue.vercel.app/api/axios-break | Working     | Not working |
