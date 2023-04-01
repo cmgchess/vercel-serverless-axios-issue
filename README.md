@@ -2,7 +2,7 @@
 
 [Vercel discussion](https://github.com/vercel/vercel/discussions/9637)
 
-| **Endpoint**                                                     | **Dev**     | **Deploy**  |
+| **Endpoint**                                                     | **Dev (Node 14.15.1) & (Node 18.15.0)**     | **Deploy (Node 18.x)**  |
 |------------------------------------------------------------------|-------------|-------------|
 | https://vercel-serverless-axios-issue.vercel.app/api/axios-break | Working     | Not working |
 | https://vercel-serverless-axios-issue.vercel.app/api/axios-work  | Not working | Working     |
