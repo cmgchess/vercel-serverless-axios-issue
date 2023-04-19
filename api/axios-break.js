@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-module.exports = async (req, res) => {
+export default async function (req, res) {
   const URL = 'https://jsonplaceholder.typicode.com/todos/1';
   try {
     const response = await axios.get(URL);
