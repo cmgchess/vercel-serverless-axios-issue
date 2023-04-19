@@ -1,6 +1,7 @@
 # Vercel Serverless Axios Issue
 
-[Vercel discussion](https://github.com/vercel/vercel/discussions/9637)
+[Vercel discussion](https://github.com/vercel/vercel/discussions/9637)  
+[Vercel issue](https://github.com/vercel/vercel/issues/9769)
 
 | **Endpoint**                                                     | **Dev (Node 14.15.1) & (Node 18.15.0)**     | **Deploy (Node 18.x)**  |
 |------------------------------------------------------------------|-------------|-------------|
